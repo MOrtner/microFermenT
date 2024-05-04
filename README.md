@@ -16,6 +16,10 @@ Here, a set of two finished **microFermenT**ers are shown doing their duty in gr
 
 ![image of fermenter_in action](https://github.com/MOrtner/microFermenT/blob/main/images/example_fermenter.png)
 
+The following graph shows the difference between a Batch (solid lines) and Fed-Batch (dashed lines) fermentation in both, cell density and carbon source (glucose) utilization:
+![example kinetics](https://github.com/MOrtner/microFermenT/blob/main/images/example_growth.png)
+
+
 # Cultivation of Vibrio natrigens in a bioreactor
 
 
