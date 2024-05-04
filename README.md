@@ -2,15 +2,15 @@
 
 ## This project is the result of two problems in a student laboratory at the Technical University of Munich.
 
-A guided laboratory course for third year bioprocess engineering students was designed by lecturer Markus Gütlich. One experiment was the cultivation of Lactobacillus lactis in its wild-type strain and the recording of basic growth parameters such as pH and cell density. Due to a tight schedule and the slow growth of **Lactobacillus lactis**, the main problem was the limited time available of only 6 hours.
+A guided laboratory course for third year bioprocess engineering students was designed by lecturer Markus Gütlich. One experiment was the cultivation of Lactobacillus lactis in its wild-type strain and the recording of basic growth parameters such as pH and cell density. Due to a tight schedule and the slow growth of *Lactobacillus lactis*, the main problem was the limited time available of only 6 hours.
 The second problem was the cost of laboratory equipment required for controlled environment growth of micro-organisms. Bioreactors or fermenters are typically used for this purpose. With its equipment, a Sartorius Stedim Biostat A benchtop fermenter, the Chair of Biopolymer Chemistry at TUM was able to help. But with only one piece of equipment, which was too complicated to learn in just 6 hours, it was not possible to provide hands-on experience for 30 students.
 
-To solve both problems, a 3D printable miniature bioreactor was developed by Martin Ortner, a PhD student at the Department of Biopolymer Chemistry. He worked closely with Markus Gütlich, who contributed the pedagogical aspects. Together with the switch from **Lactobacillus lactis** to the fast-growing **Vibrio natriegens**, the 6 hour deadline was reachable.
+To solve both problems, a 3D printable miniature bioreactor was developed by Martin Ortner, a PhD student at the Department of Biopolymer Chemistry. He worked closely with Markus Gütlich, who contributed the pedagogical aspects. Together with the switch from *Lactobacillus lactis* to the fast-growing *Vibrio natriegens*, the 6 hour deadline was reachable.
 
 With autoclavability in mind, the hardware is based on a 1 liter, 80 mm wide mouth laboratory bottle. Using HighTemp resin, custom inserts were 3D printed on a FormLabs Form3. In order to counteract the corrosion of the highly saline growth media, all metal parts were either made of A2 stainless steel or were replaced with ceramics.
 
 
-![image of fermenter](
+![image of fermenter_basics](https://github.com/MOrtner/microFermenT/blob/main/images/render_schematic.png)
 
 # Cultivation of Vibrio natrigens in a bioreactor
 
