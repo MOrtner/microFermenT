@@ -10,7 +10,11 @@ To solve both problems, a 3D printable miniature bioreactor was developed by Mar
 With autoclavability in mind, the hardware is based on a 1 liter, 80 mm wide mouth laboratory bottle. Using HighTemp resin, custom inserts were 3D printed on a FormLabs Form3. In order to counteract the corrosion of the highly saline growth media, all metal parts were either made of A2 stainless steel or were replaced with ceramics.
 
 
-![image of fermenter_basics](https://github.com/MOrtner/microFermenT/blob/main/images/render_schematic.png)
+![image of fermenter_schematic](https://github.com/MOrtner/microFermenT/blob/main/images/render_schematic.png)
+
+Here, a set of two finished **microFermenT**ers are shown doing their duty in growing *V. natriegens*:
+
+![image of fermenter_in action](https://github.com/MOrtner/microFermenT/blob/main/images/example_fermenter.png)
 
 # Cultivation of Vibrio natrigens in a bioreactor
 
